@@ -6,7 +6,7 @@ public class tutorial_1 {
         System.out.println("My name is Devinda rukshan jayasooriya");
         System.out.println("My age is 21");
 
-        /*Write a program (use any name you like) and create a variable called runningTotal.
+        /* Q2: Write a program (use any name you like) and create a variable called runningTotal.
         Assign 0 to variable “runningTotal”.Then, add numbers 5, 8, 2, 3 (one at a time) to“runningTotal”
         variable.*/
 
@@ -16,6 +16,8 @@ public class tutorial_1 {
         runningTotal = 2;
         runningTotal = 3;
         System.out.println(runningTotal);
+
+
 
     }
 }
